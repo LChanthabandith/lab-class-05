@@ -1,34 +1,23 @@
-# Lab: Fun with Functions
+# LAB - LAB5A
 
-## Problem Domain
+## Fun with Functions
 
-Today in lab you will create your own repo using the [code-201-lab5a Template Repo](https://github.com/codefellows/code-201-lab5a){:target="_blank"}, and then create solutions to some code problems such that your solutions pass the included tests.
+I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
 
-## Instructions
+### Author: Lavieng Chanthabandith
 
-You are being given starter code for today, in the `index.html` and `app.js` files inside of this directory. The success of your code will be determined by whether it passes tests that are in the `tests.js` file. You do not need to do anything with `tests.js`, though you should take a look at it to see how it works.
+### Links and Resources
 
-Steps to create your repo using the template:
-  1. Click the green `Use this template` button
-  1. Name your repo
-  1. Click the green `Create repository from template` button
+[JEST](https://www.youtube.com/watch?v=ajiAl5UNzBU&t=596s)
+[Testing In JavaScript](https://www.youtube.com/watch?v=FgnxcUQ5vho&t=260s)
+[Strings](https://www.youtube.com/watch?v=09BwruU4kiY)
+[Returns](https://www.youtube.com/watch?v=FioqUnOGlq8)
+[Multiply Arguments](https://www.youtube.com/watch?v=DXiibb0l5S4)
+[toBe vs to Equal](https://www.youtube.com/watch?v=yW3WyUThC9E)
+[Join Array](https://www.youtube.com/watch?v=1a2OCwBD-yI)
+[Array Reduce](https://www.youtube.com/watch?v=g1C40tDP0Bk)
+[Sum of Array](https://reqbin.com/code/javascript/m81eb1ms/javascript-sum-array-example)
+[Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
-Here are a couple of things to keep in mind:
+* Any Links you used as reference
 
-* Create a new branch for each code problem, and merge each branch into *main* on GitHub (and then pull back into main on your laptop!) when the problem is completed. Do the problems in order. Don't forget to pull the updated main branch from GitHub into your local main branch each time you merge a pull request, then make a new branch from main for the next problem.
-* Place no function calls in your code, unless inside of another function. Everything should be run by hand from the console. This is to give you additional practice using the console and practice efficient app-switching processes.
-
-* Although this is an individual lab assignment, do feel free to collaborate and work in pairs or groups.
-
-## Resources
-
-This lab will have starter code provided. Work with your instructor directly to gain access to this code.
-
-### Submission Instructions
-
-Make sure your *main* branch is up to date with your most recent code. 
-- In the submission area, paste a link to your GitHub repo for this project.
-- Add a comment to this Canvas submission with answers to the following questions.
-  - How did this go, overall?
-  - What observations or questions do you have about what you've learned so far?
-  - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
